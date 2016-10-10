@@ -15,7 +15,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-namespace mycomposer;
+namespace mycomposer01;
 class Json
 {
     public static function encode($data)
