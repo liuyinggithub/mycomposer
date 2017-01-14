@@ -1,5 +1,4 @@
 <?php
-<?php
 /**
  * Copyright 2016 liuying <815934437@qq.com>.
  *
